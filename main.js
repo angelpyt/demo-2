@@ -4,6 +4,7 @@ var mic;
 // Set up cannot be named differently, constructs canvas
 function setup() {
   createCanvas(displayWidth, displayHeight);
+  background(220);
 }
 
 // draw cannot be named differently, will be called in a loop
